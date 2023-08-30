@@ -1,0 +1,387 @@
+.opp{
+	width: 100%;
+	height: 100px;
+	background-color:yellow;
+    border: 2px solid black;
+
+}
+nav{
+	display: block;
+}
+.logo{
+	width: 20%;
+	height: 100px;
+	background-color:pink;
+	float: left;
+}
+.opp1{
+	width: 80%;
+	height: 100px;
+	background-color:white;
+	float: right;
+	background-color: rgb(175, 173, 234);
+}
+.im1{
+	width: 100%;
+	height: 100px;
+}
+.ul1{
+	list-style-type: none;
+}
+.li1{
+	float: left;
+	margin-right: 120px;
+	margin-top: 25px;
+	font-family: fantasy;
+	color:black;
+	font-variant: small-caps;
+}
+.back{
+	width: 100%;
+	height: 500px;
+	padding-top: 10px;
+	background-image: url('../image/girl.jpg');
+	background-repeat: no-repeat;
+	background-size: 1525px 625px;
+	padding-top: 150px;
+
+}
+.p1{
+	font-size: 50px;
+	color: black;
+	font-family: fantasy;
+	padding-right: 10px;
+}
+.p2{
+	font-family: cursive;
+}
+.sp{
+	color: hotpink;
+	font-size: 40px;
+}
+.in1{
+	border-radius: 10px;
+	border:4px solid rgb(176, 247, 177);
+	height: 50px;
+	width: 150px;
+	font-size: 14px;
+	background-color: rgb(191, 5, 157 );
+}
+.about{
+	width: 100%;
+	height: 800px;
+	background-color: white;
+}
+.about1{
+	width: 100%;
+	height: 100px;
+	background-color: white;
+	padding-top: 30px;
+}
+.about2{
+	width: 98.7%;
+	height: 600px;
+	background-color: white;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.about2a{
+	width: 73%;
+	height: 600px;
+	background-color: rgb(192, 221, 221);
+	float: left;
+
+	/*padding-top: 90px;*/
+}
+.about2b{
+	width: 24%;
+	height: 600px;
+	background-color: white;
+	float: right;
+}
+.about2b1{
+	width: 94%;
+	height: 450px;
+	border: 7px ridge pink;
+	background-color: white;
+}
+.about2b2{
+	width: 94%;
+	height: 10px;
+	background-color: white;	
+	border: 7px ridge black;
+	padding-bottom: 90px;
+}
+.im2{
+	width: 100%;
+	height: 450px;
+}
+.phone{
+	border-top:3px solid black;
+	width: 1090px;
+	height: 100px;
+	background-color: white;
+	margin-left: 20px;
+}
+.phone1{
+	width: 366px;
+	height: 50px;
+	background-color: white;
+	float: left;
+}
+.phone2{
+	width: 364px;
+	height: 50px;
+	background-color: white;
+	float:left;
+}
+.phone3{
+	width: 360px;
+	height: 50px;
+	background-color: white;
+	float: right;
+}
+.phone4{
+	width: 366px;
+	height: 50px;
+	background-color: white;
+	float: left;
+}
+.phone5{
+	width: 364px;
+	height: 50px;
+	background-color: white;
+	float: left;
+}
+.phone6{
+	width: 360px;
+	height: 50px;
+	background-color: white;
+	float: left;
+}
+
+.fs{
+	font-size:40px;
+	margin-top: 30px;
+	margin-right: 42px
+}
+.fp{
+	font-size: 17px;
+}
+.edu{
+	width: 100%;
+	height: 500px;
+}
+.li2{
+	float: left;
+	list-style-position: inside;
+	border:1px solid red;
+}
+.dot {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #db0dd1;
+}
+.line {
+	border: 1px solid black;
+	position: relative;
+	left: 0px;
+	top: 4px;
+	width: 95%
+}
+.fl{
+	float: left;
+}
+.edu1{
+	width: 33%;
+	height: 200px;
+}
+b{
+	font-size: 20px;
+}
+
+.skills{
+	width: 100%;
+	height: 400px;
+}
+.sk1{
+	width: 50%;
+	height: 500px;
+	float: left;
+}
+.sk2{
+	width: 50%;
+	height: 500px;
+	float: right;
+}
+.pg{
+	width: 80%;
+	height: 10px;
+}
+progress {
+  background: red;
+
+}
+progress {
+  color: green;
+
+}
+progress::-webkit-progress-value {
+  background: #db0dd1;
+}
+.experience{
+	width: 100%;
+	height: 500px;
+}
+.exp1{
+	width: 50%;
+	height: 200px;
+	float: left;
+}
+.exp2{
+	width: 50%;
+	height: 200px;
+	float: right;
+}
+.vertical-line {
+        border-right:  2px solid black;
+        height: 100%; /* set the height of the line */
+        margin-right: 10px; /* add some spacing between the lines */
+        position: relative;
+        top: 10px;
+        right: 6px
+    }
+    .profiles{
+    	width: 100%;
+    	height: 200px;
+    	
+    }
+    .pf{
+    	width: 80%;
+    	height: 180px;
+    	margin: auto;
+    	
+    }
+    .pf1{
+    	width: 100%;
+    	height: 90px;
+    	border-bottom: 1px solid black;
+    }
+    .pf2{
+    	width: 100%;
+    	height: 90px;
+  
+    }
+    .pf11{
+    	width: 20%;
+    	height: 90px;
+    	float: left;
+    	padding-left: 50px;
+    	padding-top: 30px;
+    	border-right:  2px solid black;
+
+    }
+        .pf12{
+    	width: 20%;
+    	height: 100%;
+    	float: left;
+    	padding-left: 50px;
+    	padding-top: 30px;
+    	border-right:  2px solid black;
+    }
+        .pf13{
+    	width: 20%;
+    	height: 100%;
+    	float: left;
+    	padding-left: 50px;
+    	padding-top: 30px;
+    	border-right:  2px solid black;
+    }
+        .pf14{
+    	width: 20%;
+    	height: 100%;
+    	float: right;
+    	padding-left: 50px;
+    	padding-top: 30px;
+    	
+    }
+   .portfolio{
+   	width: 100%;
+   	height: 500px;
+
+   }
+   .prtf{
+   	width: 95%;
+   	height: 500px;
+   	margin: auto;
+   }
+   .prtf1{
+   	width: 30%;
+   	height: 500px;
+   	float: left;
+   	margin-right: 15px
+   }
+   .prtf2{
+   	width: 30%;
+   	height: 500px;
+   	float: left;
+   }
+   .prtf3{
+   	width: 30%;
+   	height: 500px;
+   	float: left;
+   	margin-left: 15px
+   }
+   .prtf11{
+   	width: 100%;
+   	height: 240px;
+   	border:1px solid red;
+   	margin-bottom: 15px;
+   }
+   .prtf12{
+   	width: 100%;
+   	height: 240px;
+   	border:1px solid red;
+   }
+   .prtf31{
+   	width: 100%;
+   	height: 240px;
+   	border:1px solid red;
+   	margin-bottom: 15px;
+   }
+   .prtf32{
+   	width: 100%;
+   	height: 240px;
+   	border:1px solid red;
+   }
+   .pfi{
+   	height: 100%;
+   	width: 100%;
+   }
+   .contact{
+   	width:100%;
+   	height: 500px;
+   }
+   .cn1{
+   	width: 49%;
+   	height: 500px;
+   	float: left;
+   }
+   .cn2{
+   	width: 49%;
+   	height: 500px;
+   	float: right;
+   }
+   .ips{
+   	height: 40px;
+   	width: 88%;
+   	background-color:#db0dd1;
+   	margin-left: 40px;
+
+   }
+   .copy{
+   	height: 100px;
+
+   }
+
