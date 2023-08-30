@@ -1,0 +1,218 @@
+.start{
+	width: 100%;
+	height: 1000px;
+	background-color:white;
+}
+.nav{
+	width: 100%;
+	height: 130px;
+	background-color:white;
+	border: 1px solid black;
+}
+.high{
+	width: 100%;
+	height: 50px;
+	background-color: grey;
+}
+.nav1{
+	width: 30%;
+	height: 130px;
+	background-color:white;
+	float:left;
+}
+.nav2{
+	width: 70%;
+	height: 130px;
+	background-color:white;
+	float: right;
+	background-color: rgb(236, 112, 99);
+}
+.im1{
+	width: 100%;
+	height: 130px;
+}
+.ul1{
+	list-style-type: none;
+}
+.li1{
+	float: left;
+	margin-right: 120px;
+	margin-top: 25px;
+	font-family: arial;
+	color:black;
+	font-variant: small-caps;
+}
+.back{
+	width:100%;
+	height:750px;
+	background-color: white;
+	background-image: url("../images/tool.avif");
+	background-size: cover;
+}
+.p1{
+	font-size: 50px;
+	color: white;
+	padding-right: 500px;
+}
+.p2{
+	font-family: arial;
+	padding-right: 500px;
+	color: white;
+
+}.in1{
+	border-radius: 10px;
+	height: 50px;
+	width: 150px;
+	font-size: 14px;
+	background-color: white;
+}
+input{
+	margin-right: 500px;
+}
+.pg1{
+	width: 100%;
+	height: 150px;
+	background-color: black;
+	border: 1px solid black;
+}
+.pg2{
+	width: 33%;
+	height: 150px;
+	background-color: rgb(243, 156, 18 );;
+	float: left;
+}
+.pg3{
+	width: 33%;
+	height: 150px;
+	background-color: rgb(236, 112, 99 );
+	float: left;
+}
+.pg4{
+	width: 31%;
+	height: 150px;
+	background-color: pink;
+	float: right;
+	padding-right: 44px;
+}
+.fs{
+	font-size:40px;
+	margin-top: 30px;
+	margin-right: 42px;
+	margin-left:40px;
+}
+.g1{
+	font-size: 35px;
+	margin-left: 30px;
+}
+.about{
+	height: 500px;
+	width: 100%;
+	background-color: white;
+}
+.about1{
+	height: 500px;
+	width: 60%;
+	background-color: white;
+	float: left;
+	border: 1px solid black;
+}
+.about2{
+	height: 500px;
+	width: 38%;
+	background-color: rgb(244, 236, 247);
+	float: right;
+}
+.about12{
+	height: 400px;
+	width: 80%;
+	background-color: white;
+	float: left;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.about21{
+	height: 400px;
+	width: 80%;
+	background-color: yellow;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+.d1{
+	font-size: 30px;
+}
+.d2{
+	font-size: 25px;
+}
+.d3{
+	font-size: 18px;
+}
+.oi{
+	color: black;
+}
+.in8{
+	border-radius: 10px;
+	height: 50px;
+	width: 150px;
+	font-size: 14px;
+	background-color: rgb(236, 112, 99);
+}
+.imf{
+	height: 400px;
+	width: 100%;
+}
+.last{
+	height: 500px;
+	width: 100%;
+	background-color: white;
+}
+.jip{
+	height:350px;
+	width: 32%;
+	background-color: grey;
+	float: left;
+	margin-right: 30px;
+}
+.jip1{
+	height:350px;
+	width: 32%;
+	background-color: pink;
+	float: left;
+	margin-right: 30px;
+}
+.jip2{
+	height:350px;
+	width: 32%;
+	background-color:green;
+	float: left;
+}
+.fig{
+	height:350px;
+	width: 100%;
+}
+.ji{
+	height:100px;
+	width: 100%;
+	background-color:rgb(236, 112, 99 )
+}
+.j2{
+    height:100px;
+	width: 100%;
+	background-color:rgb(236, 112, 99 );
+}
+.j3{
+	height:100px;
+	width: 100%;
+	background-color:rgb(236, 112, 99 )
+}
+.v1{
+	font-size: 25px;
+	margin-left: 90px;
+	padding-top: 30px;
+}
+.fm{
+	font-size:30px;
+	margin-top: 15px;
+	margin-right: 42px;
+	margin-left:40px;
+	color: white;
+}
